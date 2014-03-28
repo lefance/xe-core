@@ -1,7 +1,7 @@
 <?php
 /* Copyright (C) NAVER <http://www.navercorp.com> */
 
-include _XE_PATH_ . 'classes/security/phphtmlparser/src/htmlparser.inc';
+include _XE_PATH_ . 'classes/security/phphtmlparser/src/htmlparser.inc.php';
 
 class EmbedFilter
 {
